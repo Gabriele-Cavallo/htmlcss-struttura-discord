@@ -113,12 +113,10 @@
     border: 2px dashed black;
 }
 .first{
-    background-color: #1e90ff;
     width: 60%;
 }
 .second{
     width: 40%;
-    background-color: #ffc0cb;
 }
 .third{
     width: 40%;
