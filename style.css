@@ -48,13 +48,18 @@
     background-color: #7fffd4;
 }
 
+/* ---- General layout ---- */
+
+.container{
+    max-width: 1920px;
+}
+
 /* ---- Header Menù ---- */
 
 .menù{
     display: flex;
     min-height: 80px;
     background-color: #add8e6;
-    width: 1180px;
     margin: 0 auto;
     justify-content: center;
     padding: 0 200px;
@@ -63,7 +68,7 @@
     display: flex;
     flex-flow: row wrap;
     align-items: center;
-    width: 1180px;
+    width: 1920px;
 }
 .col{
     background-color: #daa520;
@@ -80,4 +85,17 @@
 .button{
     width: 20%;
     text-align: end;
+}
+
+/* ---- Header Hero ---- */
+
+.hero{
+    margin: 0 auto;
+    background-color: #00008b;
+    padding: 50px 510px;
+}
+.box{
+    background-color: #ee82ee;
+    border: 2px dashed black;
+    min-height: 400px;
 }
