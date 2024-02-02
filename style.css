@@ -171,7 +171,7 @@
     width: 15%;
 }
 .bot{
-    border-bottom: 2px white solid;
+    border-bottom: 4px white solid;
 }
 .ftr{
     display: flex;
@@ -184,5 +184,13 @@
 }
 .btn{
     padding: 5px;
-    border: 1px dashed black;
+    border: 2px dashed black;
+}
+.bot-banner{
+    display: flex;
+    max-width: 1920px;
+    margin: 0 auto;
+    padding: 30px 360px 0px;   
+    align-items: flex-end;
+    justify-content: center;
 }
