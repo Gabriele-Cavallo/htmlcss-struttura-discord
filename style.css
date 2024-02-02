@@ -102,6 +102,9 @@
 
 /* ---- Main ---- */
 
+.top{
+    border-top: 4px solid #add8e6;
+}
 .bg{
     display: flex;
     max-width: 1920px;
@@ -114,6 +117,7 @@
 }
 .first{
     width: 60%;
+    
 }
 .second{
     width: 40%;
