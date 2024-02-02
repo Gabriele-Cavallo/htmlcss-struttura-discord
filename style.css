@@ -71,7 +71,6 @@
     width: 1200px;
 }
 .col{
-    background-color: #daa520;
     border: 2px dashed black;
     padding: 10px;
 }
@@ -90,8 +89,7 @@
 /* ---- Header Hero ---- */
 
 .hero{
-    margin: 0 auto;
-    padding: 50px 510px;
+    padding: 50px;
 }
 .box{
     border: 2px dashed black;
