@@ -119,3 +119,19 @@
     width: 40%;
     background-color: #ffc0cb;
 }
+.third{
+    width: 40%;
+}
+.fourth{
+    width: 60%;
+}
+.fifth{
+    width: 60%;
+}
+.sixth{
+    width: 40%;
+}
+.seventh{
+    min-height: 900px;
+    width: 100%;
+}
