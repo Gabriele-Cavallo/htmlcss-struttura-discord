@@ -37,6 +37,7 @@
 }
 .aquamarine{
     background-color: #20b2aa;
+    border: 2px dashed white;
 }
 .salmon{
     background-color: #f08080;
@@ -137,4 +138,24 @@
 .seventh{
     min-height: 900px;
     width: 100%;
+}
+/* ---- Footer ---- */
+
+.cl{
+    width: 40%;
+}
+.cl1{
+    width: 15%;
+}
+.cl2{
+    width: 15%;
+}
+.cl3{
+    width: 15%;
+}
+.cl4{
+    width: 15%;
+}
+.object{
+    border-bottom: 2px white;
 }
