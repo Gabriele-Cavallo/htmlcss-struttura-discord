@@ -92,11 +92,9 @@
 
 .hero{
     margin: 0 auto;
-    background-color: #00008b;
     padding: 50px 510px;
 }
 .box{
-    background-color: #ee82ee;
     border: 2px dashed black;
     min-height: 400px;
 }
