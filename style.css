@@ -141,8 +141,22 @@
 }
 /* ---- Footer ---- */
 
-.cl{
+.obj{
+    min-height: 580px;
+    border: 2px dashed black;
+}
+
+.column{
+    display: flex;
+    flex-flow: row wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+.cl0{
     width: 40%;
+    
 }
 .cl1{
     width: 15%;
@@ -158,4 +172,17 @@
 }
 .bot{
     border-bottom: 2px white solid;
+}
+.ftr{
+    display: flex;
+    width: 1920px;
+    min-height: 80px;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.btn{
+    padding: 5px;
+    border: 1px dashed black;
 }
