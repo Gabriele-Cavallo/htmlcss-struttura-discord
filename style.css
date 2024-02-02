@@ -5,3 +5,45 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* ---- Colors palette ---- */
+
+.azure{
+    background-color: #add8e6;
+}
+.yellow{
+    background-color: #daa520;
+}
+.blue{
+    background-color: #00008b;
+}
+.hardpink{
+    background-color: #ee82ee;
+}
+.softpink{
+    background-color: #ffc0cb;
+}
+.lightblue{
+    background-color: #1e90ff;
+}
+.grey{
+    background-color: #d3d3d3;
+}
+.green{
+    background-color: #228b22;
+}
+.dark{
+    background-color: #23272a;
+}
+.aquamarine{
+    background-color: #20b2aa;
+}
+.salmon{
+    background-color: #f08080;
+}
+.lightpink{
+    background-color: #ffb6c1;
+}
+.lightaqua{
+    background-color: #7fffd4;
+}
