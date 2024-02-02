@@ -110,6 +110,7 @@
 }
 .object{
     min-height: 500px;
+    border: 2px dashed black;
 }
 .first{
     background-color: #1e90ff;
