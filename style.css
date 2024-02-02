@@ -70,7 +70,7 @@
     display: flex;
     flex-flow: row wrap;
     align-items: center;
-    width: 1920px;
+    width: 1200px;
 }
 .col{
     background-color: #daa520;
