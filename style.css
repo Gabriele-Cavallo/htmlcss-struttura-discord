@@ -52,7 +52,7 @@
 /* ---- General layout ---- */
 
 .container{
-    max-width: 1920px;
+    max-width: 1200px;
     margin: 0 auto;
 }
 
@@ -109,7 +109,7 @@
 .bg{
     display: flex;
     justify-content: center;
-    padding: 50px;
+    padding: 50px 0;
     max-width: 1200px;
     margin: 0 auto;
 }
