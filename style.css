@@ -89,7 +89,7 @@
 /* ---- Header Hero ---- */
 
 .hero{
-    padding: 50px;
+    padding: 50px 0;
 }
 .box{
     border: 2px dashed black;
