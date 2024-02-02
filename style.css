@@ -98,6 +98,7 @@
 .box{
     border: 2px dashed black;
     min-height: 400px;
+    max-width: 910px;
 }
 
 /* ---- Main ---- */
@@ -107,32 +108,34 @@
 }
 .bg{
     display: flex;
-    max-width: 1920px;
+    justify-content: center;
+    padding: 50px;
+    max-width: 1200px;
     margin: 0 auto;
-    padding: 50px 360px;
 }
 .object{
+    
     min-height: 500px;
+    margin: 0;
     border: 2px dashed black;
 }
 .first{
-    width: 60%;
-    
+    width: 70%;
 }
 .second{
-    width: 40%;
+    width: 30%;
 }
 .third{
-    width: 40%;
+    width: 30%;
 }
 .fourth{
-    width: 60%;
+    width: 70%;
 }
 .fifth{
-    width: 60%;
+    width: 70%;
 }
 .sixth{
-    width: 40%;
+    width: 70%;
 }
 .seventh{
     min-height: 900px;
