@@ -49,13 +49,6 @@
     background-color: #7fffd4;
 }
 
-/* ---- General layout ---- */
-
-.container{
-    max-width: 1200px;
-    margin: 0 auto;
-}
-
 /* ---- Header Menù ---- */
 
 .banner{
@@ -66,7 +59,6 @@
 }
 .menù{
     display: flex;
-    flex-flow: row wrap;
     align-items: center;
     width: 1200px;
 }
@@ -95,6 +87,7 @@
     border: 2px dashed black;
     min-height: 400px;
     max-width: 910px;
+    margin: 0 auto;
 }
 
 /* ---- Main ---- */
@@ -102,36 +95,34 @@
 .top{
     border-top: 4px solid #add8e6;
 }
-.bg{
+.row{
     display: flex;
-    justify-content: center;
     padding: 50px 0;
     max-width: 1200px;
     margin: 0 auto;
+    flex-wrap: wrap;
 }
 .object{
-    
     min-height: 500px;
-    margin: 0;
     border: 2px dashed black;
 }
 .first{
-    width: 70%;
+    width: 60%;
 }
 .second{
-    width: 30%;
+    width: 40%;
 }
 .third{
-    width: 30%;
+    width: 40%;
 }
 .fourth{
-    width: 70%;
+    width: 60%;
 }
 .fifth{
-    width: 70%;
+    width: 60%;
 }
 .sixth{
-    width: 70%;
+    width: 40%;
 }
 .seventh{
     min-height: 900px;
