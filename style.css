@@ -38,12 +38,21 @@
 
 .hero{
     padding: 50px 0;
+    display: flex;
+    justify-content: center;
 }
 .box{
     border: 2px dashed black;
     min-height: 400px;
-    max-width: 910px;
-    margin: 0 auto;
+    min-width: 910px;
+}
+
+/* ---- General ---- */
+
+section{
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
 }
 
 /* ---- Main ---- */
@@ -54,9 +63,7 @@
 .row{
     display: flex;
     padding: 50px 0;
-    max-width: 1200px;
-    margin: 0 auto;
-    flex-wrap: wrap;
+    min-width: 1200px;
 }
 .object{
     min-height: 500px;
@@ -92,8 +99,7 @@
 .column{
     display: flex;
     flex-flow: row wrap;
-    max-width: 1200px;
-    margin: 0 auto;
+    min-width: 1200px;
     padding-top: 10px;
     padding-bottom: 40px;
 }
