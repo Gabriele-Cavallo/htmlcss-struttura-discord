@@ -11,7 +11,6 @@
 .banner{
     display: flex;
     min-height: 80px;
-    background-color: #add8e6;
     justify-content: center;
 }
 .menù{
