@@ -52,7 +52,6 @@
 section{
     display: flex;
     justify-content: center;
-    flex-flow: row wrap;
 }
 
 /* ---- Main ---- */
@@ -64,6 +63,7 @@ section{
     display: flex;
     padding: 50px 0;
     min-width: 1200px;
+    flex-flow: row wrap;
 }
 .object{
     min-height: 500px;
